@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "649175707644",
+    "firebase_url": "https://me-bau-spa-default-rtdb.firebaseio.com",
+    "project_id": "me-bau-spa",
+    "storage_bucket": "me-bau-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649175707644:android:a80b4d4ba6b74994f6cc79",
+        "android_client_info": {
+          "package_name": "mebauspa.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC484pez5IgUTKVEE2JN8n69zNTmZuhRFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649175707644:android:eecdd8f32467f738f6cc79",
+        "android_client_info": {
+          "package_name": "mebauspa.ezs.vn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC484pez5IgUTKVEE2JN8n69zNTmZuhRFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
